@@ -1,7 +1,8 @@
 [{
     "id": 1, 
-    "picture": "https://plus.unsplash.com/premium_photo-1663047342299-be7fdb28da60?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80", 
+    "picture": "https://media.istockphoto.com/id/1158191245/photo/chef-serving-food.jpg?s=612x612&w=is&k=20&c=U_mFWUxMa9Z1cE7ou18jzmzq5oHgwAKewjjBpI8uaKU=", 
     "name": "Julia Child", 
+    "description": "Meet on of the best and experienced chef in the france. You just mad after eating this", 
     "experience": 50, 
     "recipes": [
         {
@@ -60,6 +61,7 @@
     "id": 2,
     "picture": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?s=612x612&w=is&k=20&c=6DG9E-YEjk3QF1M1S7t-AKg3173fS95qUrR9HSOKq5M=",
     "name": "Alain Ducasse",
+    "description": "Meet on of the best and experienced chef in the france. You just mad after eating this", 
     "experience": 35,
     "recipes": [
         {
@@ -118,6 +120,7 @@
     "id": 3,
     "picture": "https://media.istockphoto.com/id/480379752/photo/cook-decorating-a-plate.jpg?s=1024x1024&w=is&k=20&c=7WaImrNZzAXYsFgJnj8AHmZYhQr67Jzf0n2mHPV7zyg=",
     "name": "Joël Robuchon",
+    "description": "Meet on of the best and experienced chef in the france. You just mad after eating this", 
     "experience": 45,
     "recipes": [
         {
@@ -176,6 +179,7 @@
     "id": 4,
     "picture": "https://media.istockphoto.com/id/866699668/photo/gourmet-chef-cooking-in-a-commercial-kitchen.jpg?s=1024x1024&w=is&k=20&c=X_xZPLpdI4XneHOckYBm462TRKxpkZiJQOLb8MYIyz8=",
     "name": "Anne-Sophie Pic",
+    "description": "Meet on of the best and experienced chef in the france. You just mad after eating this", 
     "experience": 20,
     "recipes": [
         {
@@ -234,6 +238,7 @@
     "id": 5,
     "picture": "https://media.istockphoto.com/id/666908954/photo/handsome-chef-pouring-olive-oil-on-meal.jpg?s=612x612&w=is&k=20&c=GzkvArWkJjK9uqHf0-9XUT3Am9X9X48fNyRCxINbtaA=",
     "name": "Yannick Alléno",
+    "description": "Meet on of the best and experienced chef in the france. You just mad after eating this", 
     "experience": 25,
     "recipes": [
         {
@@ -292,6 +297,7 @@
     "id": 6,
     "picture": "https://media.istockphoto.com/id/1299738603/photo/portrait-of-handsome-man-in-kitchen.jpg?s=612x612&w=is&k=20&c=48BpXB4CtRnaUcAr-vXU-6eRlqxW_rDMiZ4wXSFcNOc=",
     "name": "Éric Ripert",
+    "description": "Meet on of the best and experienced chef in the france. You just mad after eating this", 
     "experience": 30,
     "recipes": [
         {
